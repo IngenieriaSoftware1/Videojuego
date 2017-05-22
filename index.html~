@@ -25,7 +25,7 @@
 				juego.load.image("fondo","assets/fondo.png");
             juego.load.image("paramilitar","assets/diamond.png");
             juego.load.image("barra","assets/piso.png");
-            juego.load.spritesheet("reportero", "assets/sprites/reporteroCorrer1.png", 31, 68);
+            juego.load.spritesheet("reportero", "assets/sprites/reporteroCorrer1.png", 32, 68);
 			}
 			
         function create() {
